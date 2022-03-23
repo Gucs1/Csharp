@@ -1,0 +1,8 @@
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\bin\Debug\ProjetosAula.Exercicios.Aula1.exe.config
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\bin\Debug\ProjetosAula.Exercicios.Aula1.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\bin\Debug\ProjetosAula.Exercicios.Aula1.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\obj\Debug\ProjetosAula.Exercicios.Aula1.csproj.AssemblyReference.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\obj\Debug\ProjetosAula.Exercicios.Aula1.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\obj\Debug\ProjetosAula.Exercicios.Aula1.csproj.CoreCompileInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\obj\Debug\ProjetosAula.Exercicios.Aula1.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoExercicios1\src\ProjetosAula.Exercicios.Aula1\obj\Debug\ProjetosAula.Exercicios.Aula1.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82bc9c38-4513-4776-8c1d-cac74b2d70dd": {
+      "ProjectGuid": "82bc9c38-4513-4776-8c1d-cac74b2d70dd",
+      "DisplayName": "CursoProway.ProjetosAula6.JogoQuina",
+      "ColorIndex": 0
+    },
+    "ca80813a-d0b6-495d-b917-6ad9ee89d066": {
+      "ProjectGuid": "ca80813a-d0b6-495d-b917-6ad9ee89d066",
+      "DisplayName": "CursoProway.ProjetosAula6.JogoQuina.Modelo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

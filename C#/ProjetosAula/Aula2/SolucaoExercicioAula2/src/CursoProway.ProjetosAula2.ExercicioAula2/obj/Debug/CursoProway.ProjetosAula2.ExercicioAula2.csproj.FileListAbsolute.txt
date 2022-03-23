@@ -1,0 +1,8 @@
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\bin\Debug\CursoProway.ProjetosAula2.ExercicioAula2.exe.config
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\bin\Debug\CursoProway.ProjetosAula2.ExercicioAula2.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\bin\Debug\CursoProway.ProjetosAula2.ExercicioAula2.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\obj\Debug\CursoProway.ProjetosAula2.ExercicioAula2.csproj.AssemblyReference.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\obj\Debug\CursoProway.ProjetosAula2.ExercicioAula2.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\obj\Debug\CursoProway.ProjetosAula2.ExercicioAula2.csproj.CoreCompileInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\obj\Debug\CursoProway.ProjetosAula2.ExercicioAula2.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula2\SolucaoExercicioAula2\src\CursoProway.ProjetosAula2.ExercicioAula2\obj\Debug\CursoProway.ProjetosAula2.ExercicioAula2.pdb
