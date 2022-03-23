@@ -1,0 +1,15 @@
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\bin\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\bin\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.deps.json
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\bin\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.runtimeconfig.json
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\bin\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.dll
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\bin\Debug\net6.0\ref\ProjetosAula.Aula1.ConsoleApp.dll
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\bin\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.AssemblyInfo.cs
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.dll
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ref\ProjetosAula.Aula1.ConsoleApp.dll
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula1\SolucaoAula1\src\ProjetosAula.Aula1.ConsoleApp\obj\Debug\net6.0\ProjetosAula.Aula1.ConsoleApp.genruntimeconfig.cache

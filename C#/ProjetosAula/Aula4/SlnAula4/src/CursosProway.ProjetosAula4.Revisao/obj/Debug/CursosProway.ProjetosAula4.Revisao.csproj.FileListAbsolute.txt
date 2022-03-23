@@ -1,0 +1,8 @@
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\bin\Debug\CursosProway.ProjetosAula4.Revisao.exe.config
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\bin\Debug\CursosProway.ProjetosAula4.Revisao.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\bin\Debug\CursosProway.ProjetosAula4.Revisao.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\obj\Debug\CursosProway.ProjetosAula4.Revisao.csproj.AssemblyReference.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\obj\Debug\CursosProway.ProjetosAula4.Revisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\obj\Debug\CursosProway.ProjetosAula4.Revisao.csproj.CoreCompileInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\obj\Debug\CursosProway.ProjetosAula4.Revisao.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnAula4\src\CursosProway.ProjetosAula4.Revisao\obj\Debug\CursosProway.ProjetosAula4.Revisao.pdb

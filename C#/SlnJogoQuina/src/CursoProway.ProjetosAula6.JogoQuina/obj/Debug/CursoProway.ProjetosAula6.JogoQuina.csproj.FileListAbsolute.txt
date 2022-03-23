@@ -1,0 +1,8 @@
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\bin\Debug\CursoProway.ProjetosAula6.JogoQuina.exe.config
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\bin\Debug\CursoProway.ProjetosAula6.JogoQuina.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\bin\Debug\CursoProway.ProjetosAula6.JogoQuina.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\obj\Debug\CursoProway.ProjetosAula6.JogoQuina.csproj.AssemblyReference.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\obj\Debug\CursoProway.ProjetosAula6.JogoQuina.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\obj\Debug\CursoProway.ProjetosAula6.JogoQuina.csproj.CoreCompileInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\obj\Debug\CursoProway.ProjetosAula6.JogoQuina.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula6\SlnJogoQuina\src\CursoProway.ProjetosAula6.JogoQuina\obj\Debug\CursoProway.ProjetosAula6.JogoQuina.pdb

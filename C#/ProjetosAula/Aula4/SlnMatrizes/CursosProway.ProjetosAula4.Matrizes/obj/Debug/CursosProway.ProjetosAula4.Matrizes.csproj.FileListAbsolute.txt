@@ -1,0 +1,8 @@
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\bin\Debug\CursosProway.ProjetosAula4.Matrizes.exe.config
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\bin\Debug\CursosProway.ProjetosAula4.Matrizes.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\bin\Debug\CursosProway.ProjetosAula4.Matrizes.pdb
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\obj\Debug\CursosProway.ProjetosAula4.Matrizes.csproj.AssemblyReference.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\obj\Debug\CursosProway.ProjetosAula4.Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\obj\Debug\CursosProway.ProjetosAula4.Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\obj\Debug\CursosProway.ProjetosAula4.Matrizes.exe
+C:\Users\julio.lisboa\source\repos\ProjetosAula\Aula4\SlnMatrizes\CursosProway.ProjetosAula4.Matrizes\obj\Debug\CursosProway.ProjetosAula4.Matrizes.pdb
